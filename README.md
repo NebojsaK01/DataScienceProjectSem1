@@ -11,11 +11,6 @@ DUE DATE: November 28th, 2025
 
 Portfolio: "Sales Forecasting for Brazilian E-commerce"
 
-DATASET: Brazilian E-commerce Store (Olist)
-- olist_orders_dataset.csv
-- olist_order_items_dataset.csv  
-- olist_products_dataset.csv
-
 TECHNICAL STACK:
 - Python: Pandas, Numpy, Matplotlib, Scikit-learn, seaborn
 - Machine Learning: RandomForestRegressor - Regression for sales prediction
