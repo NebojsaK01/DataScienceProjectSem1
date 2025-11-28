@@ -9,8 +9,7 @@ STUDENT NUMBER: C00283550
 STUDENT EMAIL: C00283550@setu.ie  
 COURSE: Data Science & Machine Learning 1 - Y4  
 ASSESSMENT: Data Science & Machine Learning Continuous Assessment  
-NAME OF CA: E-Commerce Data Science Portfolio  
-DUE DATE: November 28th, 2025  
+NAME OF CA: E-Commerce Data Science Portfolio   
 
 ---
 
